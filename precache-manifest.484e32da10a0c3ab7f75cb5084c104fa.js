@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "35613405cce196f658577adcec8dd50e",
+    "revision": "f990891da97e146365b5b54d83ced953",
     "url": "/hentacle/index.html"
   },
   {
-    "revision": "c22fdebf237f1f921c5b",
+    "revision": "e99d61bbb913aedc9f72",
     "url": "/hentacle/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hentacle/static/js/2.8f160f27.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c22fdebf237f1f921c5b",
-    "url": "/hentacle/static/js/main.2cf0244f.chunk.js"
+    "revision": "e99d61bbb913aedc9f72",
+    "url": "/hentacle/static/js/main.87718e14.chunk.js"
   },
   {
     "revision": "ec9b614611ff2afa6943",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/hentacle/static/css/main.5f361e03.chunk.css",
-    "main.js": "/hentacle/static/js/main.2cf0244f.chunk.js",
-    "main.js.map": "/hentacle/static/js/main.2cf0244f.chunk.js.map",
+    "main.js": "/hentacle/static/js/main.87718e14.chunk.js",
+    "main.js.map": "/hentacle/static/js/main.87718e14.chunk.js.map",
     "runtime-main.js": "/hentacle/static/js/runtime-main.c05f0cbc.js",
     "runtime-main.js.map": "/hentacle/static/js/runtime-main.c05f0cbc.js.map",
     "static/js/2.8f160f27.chunk.js": "/hentacle/static/js/2.8f160f27.chunk.js",
     "static/js/2.8f160f27.chunk.js.map": "/hentacle/static/js/2.8f160f27.chunk.js.map",
     "index.html": "/hentacle/index.html",
-    "precache-manifest.da8d5696dddf0d94793dda9baf74d1ee.js": "/hentacle/precache-manifest.da8d5696dddf0d94793dda9baf74d1ee.js",
+    "precache-manifest.484e32da10a0c3ab7f75cb5084c104fa.js": "/hentacle/precache-manifest.484e32da10a0c3ab7f75cb5084c104fa.js",
     "service-worker.js": "/hentacle/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/hentacle/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.8f160f27.chunk.js.LICENSE.txt": "/hentacle/static/js/2.8f160f27.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.c05f0cbc.js",
     "static/js/2.8f160f27.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.2cf0244f.chunk.js"
+    "static/js/main.87718e14.chunk.js"
   ]
 }
