@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/hentacle/static/css/main.5f361e03.chunk.css",
-    "main.js": "/hentacle/static/js/main.87718e14.chunk.js",
-    "main.js.map": "/hentacle/static/js/main.87718e14.chunk.js.map",
+    "main.css": "/hentacle/static/css/main.b5c5a014.chunk.css",
+    "main.js": "/hentacle/static/js/main.da3062c1.chunk.js",
+    "main.js.map": "/hentacle/static/js/main.da3062c1.chunk.js.map",
     "runtime-main.js": "/hentacle/static/js/runtime-main.c05f0cbc.js",
     "runtime-main.js.map": "/hentacle/static/js/runtime-main.c05f0cbc.js.map",
-    "static/js/2.8f160f27.chunk.js": "/hentacle/static/js/2.8f160f27.chunk.js",
-    "static/js/2.8f160f27.chunk.js.map": "/hentacle/static/js/2.8f160f27.chunk.js.map",
+    "static/js/2.87c03736.chunk.js": "/hentacle/static/js/2.87c03736.chunk.js",
+    "static/js/2.87c03736.chunk.js.map": "/hentacle/static/js/2.87c03736.chunk.js.map",
     "index.html": "/hentacle/index.html",
-    "precache-manifest.484e32da10a0c3ab7f75cb5084c104fa.js": "/hentacle/precache-manifest.484e32da10a0c3ab7f75cb5084c104fa.js",
+    "precache-manifest.11c156e5dfe85fd9151a6b263b34b3fd.js": "/hentacle/precache-manifest.11c156e5dfe85fd9151a6b263b34b3fd.js",
     "service-worker.js": "/hentacle/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/hentacle/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.8f160f27.chunk.js.LICENSE.txt": "/hentacle/static/js/2.8f160f27.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/hentacle/static/media/logo.5d5d9eef.svg"
+    "static/css/main.b5c5a014.chunk.css.map": "/hentacle/static/css/main.b5c5a014.chunk.css.map",
+    "static/js/2.87c03736.chunk.js.LICENSE.txt": "/hentacle/static/js/2.87c03736.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c05f0cbc.js",
-    "static/js/2.8f160f27.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.87718e14.chunk.js"
+    "static/js/2.87c03736.chunk.js",
+    "static/css/main.b5c5a014.chunk.css",
+    "static/js/main.da3062c1.chunk.js"
   ]
 }
